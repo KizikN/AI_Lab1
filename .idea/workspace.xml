@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="db3fa577-d03a-4528-ba37-bc44caa95121" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/AI_Lab1/lab3/lab3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AI_Lab1/lab1/lab1.py" beforeDir="false" afterPath="$PROJECT_DIR$/AI_Lab1/lab1/lab1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AI_Lab1/lab1/lab2.py" beforeDir="false" afterPath="$PROJECT_DIR$/AI_Lab1/lab2/lab2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AI_Lab1/lab2/lab2.py" beforeDir="false" afterPath="$PROJECT_DIR$/AI_Lab1/lab2/lab2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,8 +29,8 @@
     <option name="defaultAccountId" value="2bdce7e3-0593-4ede-a7e4-a4b6ba726e99" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/AI_Lab1/lab2/lab2.py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/Lib/site-packages/joblib/test/test_memory.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AI_Lab1/lab2/lab2.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AI_Lab1/lab3/lab3.py" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
@@ -42,17 +44,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.lab1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lab2.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;G:/lab1&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.lab1.executor": "Run",
+    "Python.lab2.executor": "Run",
+    "Python.lab3.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "G:/lab1",
+    "settings.editor.selected.configurable": "vcs.Git"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="G:\lab1\AI_Lab1\lab2" />
